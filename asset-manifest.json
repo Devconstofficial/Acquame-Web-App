@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Acquame-Web-App/static/css/main.44785c6c.css",
+    "main.js": "/Acquame-Web-App/static/js/main.3c4af1a0.js",
+    "static/js/453.66d617bc.chunk.js": "/Acquame-Web-App/static/js/453.66d617bc.chunk.js",
+    "static/media/paprika-latin-400-normal.woff2": "/Acquame-Web-App/static/media/paprika-latin-400-normal.08d3c536c7a2af5a739c.woff2",
+    "static/media/paprika-latin-400-normal.woff": "/Acquame-Web-App/static/media/paprika-latin-400-normal.41af71d5692ed99ff13f.woff",
+    "static/media/paprika-latin-ext-400-normal.woff2": "/Acquame-Web-App/static/media/paprika-latin-ext-400-normal.d6078dc55b082ec86e2a.woff2",
+    "static/media/paprika-latin-ext-400-normal.woff": "/Acquame-Web-App/static/media/paprika-latin-ext-400-normal.83f5b1703db4203a610e.woff",
+    "static/media/poppins-latin-400-normal.woff": "/Acquame-Web-App/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/Acquame-Web-App/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/Acquame-Web-App/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/Acquame-Web-App/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
+    "index.html": "/Acquame-Web-App/index.html",
+    "main.44785c6c.css.map": "/Acquame-Web-App/static/css/main.44785c6c.css.map",
+    "main.3c4af1a0.js.map": "/Acquame-Web-App/static/js/main.3c4af1a0.js.map",
+    "453.66d617bc.chunk.js.map": "/Acquame-Web-App/static/js/453.66d617bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44785c6c.css",
+    "static/js/main.3c4af1a0.js"
+  ]
+}
