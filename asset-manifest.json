@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Acquame-Web-App/static/css/main.44785c6c.css",
-    "main.js": "/Acquame-Web-App/static/js/main.3c4af1a0.js",
+    "main.js": "/Acquame-Web-App/static/js/main.15870965.js",
     "static/js/453.66d617bc.chunk.js": "/Acquame-Web-App/static/js/453.66d617bc.chunk.js",
     "static/media/paprika-latin-400-normal.woff2": "/Acquame-Web-App/static/media/paprika-latin-400-normal.08d3c536c7a2af5a739c.woff2",
     "static/media/paprika-latin-400-normal.woff": "/Acquame-Web-App/static/media/paprika-latin-400-normal.41af71d5692ed99ff13f.woff",
@@ -13,11 +13,11 @@
     "static/media/poppins-latin-ext-400-normal.woff2": "/Acquame-Web-App/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
     "index.html": "/Acquame-Web-App/index.html",
     "main.44785c6c.css.map": "/Acquame-Web-App/static/css/main.44785c6c.css.map",
-    "main.3c4af1a0.js.map": "/Acquame-Web-App/static/js/main.3c4af1a0.js.map",
+    "main.15870965.js.map": "/Acquame-Web-App/static/js/main.15870965.js.map",
     "453.66d617bc.chunk.js.map": "/Acquame-Web-App/static/js/453.66d617bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44785c6c.css",
-    "static/js/main.3c4af1a0.js"
+    "static/js/main.15870965.js"
   ]
 }
