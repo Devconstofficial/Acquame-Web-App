@@ -1,0 +1,48 @@
+/* custom.css */
+:root {
+  --bs-primary: #00BFD4; /* Your custom primary color */
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.paprika {
+  font-family: "Paprika", cursive;
+}
+
+/* Custom CSS for the dropdown */
+.form-select {
+  background-color: white;
+  border: 1px solid #00BFD4;
+  border-radius: 4px;
+  color: #333;
+  padding: 8px;
+  cursor: pointer;
+}
+
+/* Hover effect for options (limited browser support) */
+.form-select option:hover {
+  background-color: #00BFD4 !important; /* Your custom hover color */
+  color: white !important;
+}
+
+/* Focus style for the select element */
+.form-select:focus {
+  border-color: #00BFD4;
+  box-shadow: 0 0 0 0.2rem rgba(0, 191, 212, 0.25);
+}
+

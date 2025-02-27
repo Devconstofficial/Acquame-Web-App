@@ -1,0 +1,215 @@
+.aqua-lightpink {
+    color: #FF8799 !important;
+}
+
+.aqua-bg-lightpink {
+    background-color: #FF8799 !important;
+}
+
+.aqua-lightyellow {
+    color: #FFB663 !important;
+}
+
+.aqua-bg-lightyellow {
+    background-color: #FFB663 !important;
+}
+
+.aqua-yellow {
+    color: #FF902F !important;
+}
+
+.aqua-bg-yellow {
+    background-color: #FF902F !important;
+}
+
+.aqua-pink {
+    color: #FF4C67 !important;
+}
+
+.aqua-bg-pink {
+    background-color: #FF4C67 !important;
+}
+
+.aqua-purple {
+    color: #8B7FFD !important;
+}
+
+.aqua-bg-purple {
+    background-color: #8B7FFD !important;
+}
+
+.aqua-primary-2 {
+    color: #1B97CC !important;
+}
+
+.aqua-bg-primary-2 {
+    background-color: #1B97CC !important;
+}
+
+.aqua-blue {
+    color: #1B6FFD !important;
+}
+
+.aqua-bg-blue {
+    background-color: #1B6FFD !important;
+}
+
+.aqua-lightpurple {
+    color: #DC90FF !important;
+}
+
+.aqua-bg-lightpurple {
+    background-color: #DC90FF !important;
+}
+
+.aqua-green {
+    color: #2B7B17 !important;
+}
+
+.aqua-bg-green {
+    background-color: #2B7B17 !important;
+}
+
+.aqua-lightgreen {
+    color: #4FC986 !important;
+}
+
+.aqua-bg-lightgreen {
+    background-color: #4FC986 !important;
+}
+.auqa-bg-lightprimary {
+    background-color: #b1e8ee !important;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    /* 5 equal columns */
+    gap: 15px;
+    /* Adjust space between cards */
+}
+
+.auqa-card-text{
+    padding-left: 20px;
+    font-size: 1.25rem !important;   
+}
+
+.auqa-home-img{
+    width: auto;
+}
+
+.financialImg {
+    width: 160px;
+    height: auto;
+    position: absolute ;
+    top: auto ;
+    right: 10px ;
+    bottom: 0px ;
+}
+.aqua-financial-card{
+    height: 180px !important;
+}
+.auqa-financial{
+    width: 75% ;
+}
+
+.auqa-financial-text{
+    font-size: 16px ;
+}
+
+.mentalImg {
+    width: 175px;
+    height: auto;
+    position: absolute ;
+    top: -31px ;
+    right: 10px ;
+    bottom: 0px ;
+}
+.aqua-mental-card{
+    height: 180px !important;
+}
+.auqa-mental{
+    width: 75% ;
+}
+
+.auqa-mental-text{
+    font-size: 18px ;
+}
+
+@media (max-width: 768px) {
+    .card-grid {
+        grid-template-columns: repeat(3, 1fr);
+        /* 2 per row on smaller devices */
+    }
+    .auqa-card-text{
+        padding-left: 10px;
+        font-size: 16px !important;
+    }
+    .auqa-home-img{
+        width: 120px ;
+    }
+
+    .aqua-financial-card{
+        height: auto !important;
+    }
+
+    .financialImg { 
+        position: absolute;
+        top: auto;
+        bottom: -1px;
+        right: 0px;
+        width: 100px;
+        height: auto;   
+    }
+    .auqa-financial{
+        width: 70% ;
+    }
+    .auqa-financial-text{
+        font-size: 14px ;
+    }
+
+    .aqua-mental-card{
+        height: auto !important;
+    }
+
+    .mentalImg { 
+        position: absolute;
+        top: auto;
+        bottom: -1px;
+        right: 0px;
+        width: 130px;
+        height: auto;   
+    }
+    .auqa-mental{
+        width: 70% ;
+    }
+    .auqa-mental-text{
+        font-size: 14px ;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .card-grid {
+        grid-template-columns: repeat(3, 1fr);
+        /* Full width (1 per row) on extra small screens */
+    }
+    .improve-btn{
+        width: 100%;
+        margin: 5px 15px;
+    }
+}
+
+.custom-table>tr>th {
+    background-color: #1BBBCD !important;
+    color: #fff;
+    padding: 10px;
+}
+
+.custom-table th.rounded-start {
+    border-top-left-radius: 20px !important;
+}
+
+.custom-table th.rounded-end {
+    border-top-right-radius: 20px !important;
+}
