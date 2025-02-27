@@ -16,7 +16,7 @@ import CurrentTotalAsset from "./pages/CurrentTotalAsset";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/acquame-web-app">
       <Routes>
         
         <Route path="/login" element={<Login />} />
