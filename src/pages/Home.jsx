@@ -28,7 +28,7 @@ function Home() {
                 </Card.Text>
               </div>
               <img
-                src="assets/images/homeCardImg.png"
+                src={`${process.env.PUBLIC_URL}/assets/images/homeCardImg.png`}
                 alt="Logo"
                 className="auqa-home-img order-2 order-sm-1"
               />
